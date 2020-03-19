@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nelaulahx.oldsalt.pro/sitemap.xml
